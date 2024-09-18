@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://bokeppemerkosaan.pages.dev/sitemap.xml
